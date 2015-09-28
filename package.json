@@ -1,0 +1,19 @@
+{
+  "name": "miniMarkdown",
+  "title": "Mini markdown parser",
+  "description": "..",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:masylum/miniMarkdown"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha spec/"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "engines": {
+    "node": ">= 0.12.0"
+  }
+}
