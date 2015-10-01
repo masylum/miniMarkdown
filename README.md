@@ -6,7 +6,8 @@
 
 An easy to extend parser for a subset of markdown.
 
-[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+[![travis](https://img.shields.io/travis/masylum/miniMarkdown.svg?style=flat)](https://travis-ci.org/masylum/miniMarkdown)
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 ## Markdown support
 
