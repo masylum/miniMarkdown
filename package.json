@@ -8,7 +8,7 @@
     "url": "git@github.com:masylum/miniMarkdown"
   },
   "scripts": {
-    "test": "standard && ./node_modules/mocha/bin/mocha spec/"
+    "test": "./node_modules/.bin/standard && ./node_modules/mocha/bin/mocha spec/"
   },
   "devDependencies": {
     "mocha": "*"
@@ -18,5 +18,8 @@
   },
   "standard": {
     "globals": [ "it", "describe", "beforeEach", "context" ]
+  },
+  "devDependencies": {
+    "standard": "^4.5.2"
   }
 }
